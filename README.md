@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andrews
-- 👀 I’m interested in finishing projects before starting new ones.
-- 🌱 I’m currently learning ML, stats, AWS, AI, crypto, web3, blockchain, NFTs, and Big Data.
-- 💞️ I’m looking to collaborate on ...anything.
-- 📫 How to reach me ...you can message me here.
+- 👀 I’m interested in getting better at programming.
+- 🌱 I’m currently learning web dev from scratch.
+- 💞️ I’m looking to collaborate on... anything.
+- 📫 How to reach me... here.
 
 <!---
 andrews/andrews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
