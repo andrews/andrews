@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andrews
-- 👀 I’m interested in getting better at programming.
-- 🌱 I’m currently learning web dev from scratch.
-- 💞️ I’m looking to collaborate on... anything.
-- 📫 How to reach me... here.
+- 👀 I’m interested in machine learning.
+- 🌱 I’m currently learning deep learning using Francois Chollet's book.
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me? Here.
 
 <!---
 andrews/andrews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
